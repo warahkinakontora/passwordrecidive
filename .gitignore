@@ -1,0 +1,7 @@
+build-*/
+*.user
+*.exe
+*.o
+*.dll
+moc_*.cpp
+ui_*.h
